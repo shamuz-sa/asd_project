@@ -3,4 +3,4 @@
 	url = https://github.com/shamuz-sa/asd.git
 [submodule "new-todo-app"]
     path = new-todo-app
-    url =  https://github.com/shamuz-sa/asd.git
+    url =  https://github.com/shamuz-sa/new-todo-app.git
