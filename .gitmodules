@@ -1,0 +1,3 @@
+[submodule "fastApiProject"]
+	path = fastApiProject
+	url = https://github.com/shamuz-sa/asd.git
